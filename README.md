@@ -28,7 +28,6 @@ The analysis demonstrates how protein FASTA sequences can be aligned and used to
     └── kinesin14_tree.png         # Kinesin-14 / selected kinesin protein tree
 ```
 
-> Note: Some output files are generated automatically when the notebook is executed.
 
 ## Tools and Libraries Used
 
@@ -77,8 +76,7 @@ The first dataset contains 10 selected human kinesin motor proteins. These prote
 
 The following tree was generated using RAxML with bootstrap support and visualized using Biopython.
 
-![Phylogenetic Tree of Kinesin Motor Proteins](assets/kinesin_motor_tree.png)
-<img width="1229" height="880" alt="kinesin motor protein" src="https://github.com/user-attachments/assets/cd86c563-19c3-4c26-acbd-a54b46abec0f" />
+<img width="1000" height="500" alt="kinesin motor protein" src="https://github.com/user-attachments/assets/cd86c563-19c3-4c26-acbd-a54b46abec0f" />
 
 
 ## Dataset 2: Kinesin-14 / Selected Kinesin-Family Proteins
@@ -98,8 +96,7 @@ The second dataset contains 6 selected human kinesin-family proteins used for th
 
 The following tree was generated using RAxML with bootstrap support and visualized using Biopython.
 
-![Phylogenetic Tree of Kinesin-14 Family Proteins](assets/kinesin14_tree.png)
-<img width="1220" height="880" alt="kinesin14" src="https://github.com/user-attachments/assets/73dc649c-fef7-421c-b098-086b8502d6ed" />
+<img width="1000" height="500" alt="kinesin14" src="https://github.com/user-attachments/assets/73dc649c-fef7-421c-b098-086b8502d6ed" />
 
 
 ## Step-by-Step Methodology
